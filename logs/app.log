@@ -1,0 +1,6 @@
+2024-06-27 19:43:59 - Could not detect default configuration classes for test class [br.com.cotiinformatica.LogsApiApplicationTests]: LogsApiApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-06-27 19:43:59 - Found @SpringBootConfiguration br.com.cotiinformatica.LogsApiApplication for test class br.com.cotiinformatica.LogsApiApplicationTests
+2024-06-27 19:43:59 - Restart disabled due to context in which it is running
+2024-06-27 19:44:00 - Starting LogsApiApplicationTests using Java 17.0.10 with PID 18676 (started by andri in C:\Users\andri\estudo\COTI\Eclipse\LogsApi)
+2024-06-27 19:44:00 - No active profile set, falling back to 1 default profile: "default"
+2024-06-27 19:44:01 - Started LogsApiApplicationTests in 1.54 seconds (process running for 2.5)

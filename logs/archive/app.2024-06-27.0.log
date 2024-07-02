@@ -1,0 +1,206 @@
+2024-06-27 19:36:02 - Starting LogsApiApplication using Java 17.0.10 with PID 10328 (C:\Users\andri\estudo\COTI\Eclipse\LogsApi\target\classes started by andri in C:\Users\andri\estudo\COTI\Eclipse\LogsApi)
+2024-06-27 19:36:02 - Running with Spring Boot v3.3.1, Spring v6.1.10
+2024-06-27 19:36:02 - No active profile set, falling back to 1 default profile: "default"
+2024-06-27 19:36:02 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-27 19:36:02 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-27 19:36:03 - Tomcat initialized with port 8084 (http)
+2024-06-27 19:36:03 - Initializing ProtocolHandler ["http-nio-8084"]
+2024-06-27 19:36:03 - Starting service [Tomcat]
+2024-06-27 19:36:03 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-27 19:36:03 - Initializing Spring embedded WebApplicationContext
+2024-06-27 19:36:03 - Root WebApplicationContext: initialization completed in 569 ms
+2024-06-27 19:36:03 - LiveReload server is running on port 35729
+2024-06-27 19:36:03 - Starting ProtocolHandler ["http-nio-8084"]
+2024-06-27 19:36:03 - Tomcat started on port 8084 (http) with context path '/'
+2024-06-27 19:36:03 - Started LogsApiApplication in 1.132 seconds (process running for 1.559)
+2024-06-27 19:36:13 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-27 19:36:13 - Initializing Servlet 'dispatcherServlet'
+2024-06-27 19:36:13 - Completed initialization in 1 ms
+2024-06-27 19:36:13 - Debug - teste
+2024-06-27 19:36:13 - Info - teste
+2024-06-27 19:36:13 - Error - teste
+2024-06-27 19:36:13 - Debug - teste
+2024-06-27 19:36:13 - Info - teste
+2024-06-27 19:36:13 - Error - teste
+2024-06-27 19:36:13 - Debug - teste
+2024-06-27 19:36:13 - Info - teste
+2024-06-27 19:36:13 - Error - teste
+2024-06-27 19:36:14 - Debug - teste
+2024-06-27 19:36:14 - Info - teste
+2024-06-27 19:36:14 - Error - teste
+2024-06-27 19:36:14 - Debug - teste
+2024-06-27 19:36:14 - Info - teste
+2024-06-27 19:36:14 - Error - teste
+2024-06-27 19:36:14 - Debug - teste
+2024-06-27 19:36:14 - Info - teste
+2024-06-27 19:36:14 - Error - teste
+2024-06-27 19:36:14 - Debug - teste
+2024-06-27 19:36:14 - Info - teste
+2024-06-27 19:36:14 - Error - teste
+2024-06-27 19:36:14 - Debug - teste
+2024-06-27 19:36:14 - Info - teste
+2024-06-27 19:36:14 - Error - teste
+2024-06-27 19:36:14 - Debug - teste
+2024-06-27 19:36:14 - Info - teste
+2024-06-27 19:36:14 - Error - teste
+2024-06-27 19:36:14 - Debug - teste
+2024-06-27 19:36:14 - Info - teste
+2024-06-27 19:36:14 - Error - teste
+2024-06-27 19:36:14 - Debug - teste
+2024-06-27 19:36:14 - Info - teste
+2024-06-27 19:36:14 - Error - teste
+2024-06-27 19:36:15 - Debug - teste
+2024-06-27 19:36:15 - Info - teste
+2024-06-27 19:36:15 - Error - teste
+2024-06-27 19:36:15 - Debug - teste
+2024-06-27 19:36:15 - Info - teste
+2024-06-27 19:36:15 - Error - teste
+2024-06-27 19:36:15 - Debug - teste
+2024-06-27 19:36:15 - Info - teste
+2024-06-27 19:36:15 - Error - teste
+2024-06-27 19:36:21 - Debug - teste
+2024-06-27 19:36:21 - Info - teste
+2024-06-27 19:36:21 - Error - teste
+2024-06-27 19:36:22 - Debug - teste
+2024-06-27 19:36:22 - Info - teste
+2024-06-27 19:36:22 - Error - teste
+2024-06-27 19:36:22 - Debug - teste
+2024-06-27 19:36:22 - Info - teste
+2024-06-27 19:36:22 - Error - teste
+2024-06-27 19:36:22 - Debug - teste
+2024-06-27 19:36:22 - Info - teste
+2024-06-27 19:36:22 - Error - teste
+2024-06-27 19:36:22 - Debug - teste
+2024-06-27 19:36:22 - Info - teste
+2024-06-27 19:36:22 - Error - teste
+2024-06-27 19:36:22 - Debug - teste
+2024-06-27 19:36:22 - Info - teste
+2024-06-27 19:36:22 - Error - teste
+2024-06-27 19:36:22 - Debug - teste
+2024-06-27 19:36:22 - Info - teste
+2024-06-27 19:36:22 - Error - teste
+2024-06-27 19:36:23 - Debug - teste
+2024-06-27 19:36:23 - Info - teste
+2024-06-27 19:36:23 - Error - teste
+2024-06-27 19:36:23 - Debug - teste
+2024-06-27 19:36:23 - Info - teste
+2024-06-27 19:36:23 - Error - teste
+2024-06-27 19:36:23 - Debug - teste
+2024-06-27 19:36:23 - Info - teste
+2024-06-27 19:36:23 - Error - teste
+2024-06-27 19:36:23 - Debug - teste
+2024-06-27 19:36:23 - Info - teste
+2024-06-27 19:36:23 - Error - teste
+2024-06-27 19:36:23 - Debug - teste
+2024-06-27 19:36:23 - Info - teste
+2024-06-27 19:36:23 - Error - teste
+2024-06-27 19:36:23 - Debug - teste
+2024-06-27 19:36:23 - Info - teste
+2024-06-27 19:36:23 - Error - teste
+2024-06-27 19:36:24 - Debug - teste
+2024-06-27 19:36:24 - Info - teste
+2024-06-27 19:36:24 - Error - teste
+2024-06-27 19:36:24 - Debug - teste
+2024-06-27 19:36:24 - Info - teste
+2024-06-27 19:36:24 - Error - teste
+2024-06-27 19:36:24 - Debug - teste
+2024-06-27 19:36:24 - Info - teste
+2024-06-27 19:36:24 - Error - teste
+2024-06-27 19:36:24 - Debug - teste
+2024-06-27 19:36:24 - Info - teste
+2024-06-27 19:36:24 - Error - teste
+2024-06-27 19:36:24 - Debug - teste
+2024-06-27 19:36:24 - Info - teste
+2024-06-27 19:36:24 - Error - teste
+2024-06-27 19:36:25 - Debug - teste
+2024-06-27 19:36:25 - Info - teste
+2024-06-27 19:36:25 - Error - teste
+2024-06-27 19:36:25 - Debug - teste
+2024-06-27 19:36:25 - Info - teste
+2024-06-27 19:36:25 - Error - teste
+2024-06-27 19:36:25 - Debug - teste
+2024-06-27 19:36:25 - Info - teste
+2024-06-27 19:36:25 - Error - teste
+2024-06-27 19:36:25 - Debug - teste
+2024-06-27 19:36:25 - Info - teste
+2024-06-27 19:36:25 - Error - teste
+2024-06-27 19:36:25 - Debug - teste
+2024-06-27 19:36:25 - Info - teste
+2024-06-27 19:36:25 - Error - teste
+2024-06-27 19:36:26 - Debug - teste
+2024-06-27 19:36:26 - Info - teste
+2024-06-27 19:36:26 - Error - teste
+2024-06-27 19:36:30 - Debug - teste
+2024-06-27 19:36:30 - Info - teste
+2024-06-27 19:36:30 - Error - teste
+2024-06-27 19:36:30 - Debug - teste
+2024-06-27 19:36:30 - Info - teste
+2024-06-27 19:36:30 - Error - teste
+2024-06-27 19:36:30 - Debug - teste
+2024-06-27 19:36:30 - Info - teste
+2024-06-27 19:36:30 - Error - teste
+2024-06-27 19:36:31 - Debug - teste
+2024-06-27 19:36:31 - Info - teste
+2024-06-27 19:36:31 - Error - teste
+2024-06-27 19:36:31 - Debug - teste
+2024-06-27 19:36:31 - Info - teste
+2024-06-27 19:36:31 - Error - teste
+2024-06-27 19:36:31 - Debug - teste
+2024-06-27 19:36:31 - Info - teste
+2024-06-27 19:36:31 - Error - teste
+2024-06-27 19:36:31 - Debug - teste
+2024-06-27 19:36:31 - Info - teste
+2024-06-27 19:36:31 - Error - teste
+2024-06-27 19:36:31 - Debug - teste
+2024-06-27 19:36:31 - Info - teste
+2024-06-27 19:36:31 - Error - teste
+2024-06-27 19:36:31 - Debug - teste
+2024-06-27 19:36:31 - Info - teste
+2024-06-27 19:36:31 - Error - teste
+2024-06-27 19:36:32 - Debug - teste
+2024-06-27 19:36:32 - Info - teste
+2024-06-27 19:36:32 - Error - teste
+2024-06-27 19:36:32 - Debug - teste
+2024-06-27 19:36:32 - Info - teste
+2024-06-27 19:36:32 - Error - teste
+2024-06-27 19:36:53 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-27 19:36:53 - Stopping ProtocolHandler ["http-nio-8084"]
+2024-06-27 19:36:53 - Starting LogsApiApplication using Java 17.0.10 with PID 10328 (C:\Users\andri\estudo\COTI\Eclipse\LogsApi\target\classes started by andri in C:\Users\andri\estudo\COTI\Eclipse\LogsApi)
+2024-06-27 19:36:53 - Running with Spring Boot v3.3.1, Spring v6.1.10
+2024-06-27 19:36:53 - No active profile set, falling back to 1 default profile: "default"
+2024-06-27 19:36:54 - Tomcat initialized with port 8084 (http)
+2024-06-27 19:36:54 - Initializing ProtocolHandler ["http-nio-8084"]
+2024-06-27 19:36:54 - Starting service [Tomcat]
+2024-06-27 19:36:54 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-27 19:36:54 - Initializing Spring embedded WebApplicationContext
+2024-06-27 19:36:54 - Root WebApplicationContext: initialization completed in 213 ms
+2024-06-27 19:36:54 - LiveReload server is running on port 35729
+2024-06-27 19:36:54 - Starting ProtocolHandler ["http-nio-8084"]
+2024-06-27 19:36:54 - Tomcat started on port 8084 (http) with context path '/'
+2024-06-27 19:36:54 - Started LogsApiApplication in 0.363 seconds (process running for 52.003)
+2024-06-27 19:36:54 - Condition evaluation unchanged
+2024-06-27 19:37:00 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-27 19:37:00 - Stopping ProtocolHandler ["http-nio-8084"]
+2024-06-27 19:37:00 - Starting LogsApiApplication using Java 17.0.10 with PID 10328 (C:\Users\andri\estudo\COTI\Eclipse\LogsApi\target\classes started by andri in C:\Users\andri\estudo\COTI\Eclipse\LogsApi)
+2024-06-27 19:37:00 - Running with Spring Boot v3.3.1, Spring v6.1.10
+2024-06-27 19:37:00 - No active profile set, falling back to 1 default profile: "default"
+2024-06-27 19:37:00 - Tomcat initialized with port 8084 (http)
+2024-06-27 19:37:00 - Initializing ProtocolHandler ["http-nio-8084"]
+2024-06-27 19:37:00 - Starting service [Tomcat]
+2024-06-27 19:37:00 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-27 19:37:00 - Initializing Spring embedded WebApplicationContext
+2024-06-27 19:37:00 - Root WebApplicationContext: initialization completed in 109 ms
+2024-06-27 19:37:00 - LiveReload server is running on port 35729
+2024-06-27 19:37:00 - Starting ProtocolHandler ["http-nio-8084"]
+2024-06-27 19:37:00 - Tomcat started on port 8084 (http) with context path '/'
+2024-06-27 19:37:00 - Started LogsApiApplication in 0.175 seconds (process running for 58.707)
+2024-06-27 19:37:00 - Condition evaluation unchanged
+2024-06-27 19:37:06 - Application shutdown requested.
+2024-06-27 19:37:06 - Stopping ProtocolHandler ["http-nio-8084"]
+2024-06-27 19:40:54 - Could not detect default configuration classes for test class [br.com.cotiinformatica.LogsApiApplicationTests]: LogsApiApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-06-27 19:40:54 - Found @SpringBootConfiguration br.com.cotiinformatica.LogsApiApplication for test class br.com.cotiinformatica.LogsApiApplicationTests
+2024-06-27 19:40:54 - Restart disabled due to context in which it is running
+2024-06-27 19:40:54 - Starting LogsApiApplicationTests using Java 17.0.10 with PID 14720 (started by andri in C:\Users\andri\estudo\COTI\Eclipse\LogsApi)
+2024-06-27 19:40:54 - Running with Spring Boot v3.3.1, Spring v6.1.10
+2024-06-27 19:40:54 - No active profile set, falling back to 1 default profile: "default"
+2024-06-27 19:40:56 - Started LogsApiApplicationTests in 1.661 seconds (process running for 2.763)
